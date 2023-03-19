@@ -1,0 +1,38 @@
+.ro{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-image: linear-gradient(#ffffff,#ecf7f2,#f1f1f1);
+}
+.login{
+    height: 42rem;
+    
+}
+.heads{
+    margin-top: 12rem;
+}
+.btn1{
+    padding: 15px 40px 15px 40px;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 2rem;
+}
+.btn2{
+    padding: 15px 40px 15px 40px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: grey;
+    margin-bottom: 2rem;
+}
+.columns{
+    margin-bottom: 20rem;
+}
+
+#dark{
+    background-color: rgb(186, 186, 186);
+}

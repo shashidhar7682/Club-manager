@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "eventname": "asadd",
+      "clubname": "jldna",
+      "eventdate": "2000-01-22",
+      "email": "kdmnklsm@kcmsa.com",
+      "description": "kcsmla",
+      "id": 1
+    },
+    {
+      "eventname": "asadd",
+      "clubname": "jldna",
+      "eventdate": "2024-01-22",
+      "email": "kdmnklsm@kcmsa.com",
+      "description": "kcsmla",
+      "id": 2
+    },
+    {
+      "eventname": "hackathon",
+      "clubname": "turringhut",
+      "eventdate": "2025-01-22",
+      "email": "shashidhar7682@gmail.com",
+      "description": "jlhbclehrn licnhler.cerndlihrndrixflde;rxk.fgnvkes./dbfgjsrdfhgnsvejdrgbhsdbgnrsbf",
+      "id": 3
+    },
+    {
+      "eventname": "hackathon",
+      "clubname": "turringhut",
+      "eventdate": "2025-01-22",
+      "email": "shashidhar7682@gmail.com",
+      "description": "jlhbclehrn licnhler.cerndlihrndrixflde;rxk.fgnvkes./dbfgjsrdfhgnsvejdrgbhsdbgnrsbf",
+      "id": 4
+    },
+    {
+      "eventname": "jsljhwal",
+      "clubname": "lhljhnl",
+      "eventdate": "2000-01-22",
+      "email": "jbjxkzjn@jbjklh.com",
+      "description": "bkgbkjbkjbkjb",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

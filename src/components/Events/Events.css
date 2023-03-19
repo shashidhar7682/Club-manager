@@ -1,0 +1,50 @@
+.btn3{
+    color: white;
+    background-color: green;
+    border-radius: 8px;
+    padding: 10px 40px 10px 40px;
+    border-style: none;
+}
+.btn4{
+    color: white;
+    background-color: green;
+    border-radius: 8px;
+    padding: 10px 20px 10px 20px;
+    border-style: none;
+}
+.form-check{
+    display: block;
+    margin: auto;
+}
+h2{
+    font-family: 'Berkshire Swash', cursive;
+    color: rgb(239, 77, 104);
+}
+.reg{
+    background-color: white;
+    width: 610px;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: rgb(239, 77, 104) 2px 2px 10px;
+   
+}
+#dim{
+    height:600px;
+}
+label{
+    margin-left: 14px;
+}
+input::-webkit-input-placeholder  {
+  -webkit-transition: opacity 0.2s linear; 
+  color: gray;
+}
+input:focus::-webkit-input-placeholder  {
+  opacity: 0;
+}
+textarea::-webkit-input-placeholder  {
+  -webkit-transition: opacity 0.2s linear; 
+  color: gray;
+}
+textarea:focus::-webkit-input-placeholder  {
+  opacity: 0;
+}
